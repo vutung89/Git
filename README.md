@@ -2,6 +2,10 @@
 - git status
 - git remote -v
 - git fetch origin
+- git brach -r
+- git add <ten_file>
+- git commit -m "noi dung"
+- git push origin <nhanh muon push>
 ## Nếu đang ở repo cũ nhưng muốn đổi remote sang repo khác
 Ví dụ: bạn đang ở thư mục repo A, nhưng muốn nó trỏ sang private repo B trên GitHub
 ```bash
